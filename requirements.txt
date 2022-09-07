@@ -1,0 +1,7 @@
+json-cfg
+fastapi[all]
+genson
+jsonpath_ng 
+sqlalchemy
+psycopg2-binary
+pandas
